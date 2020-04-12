@@ -1,3 +1,18 @@
+$Title ESM Tutorial 2
+
+$ontext
+
+ESM course, Tutorial 2
+GAMS features - application of $conditions
+Iegor Riepin, LSEW BTU CS
+
+Feedback, bug reportings and suggestions are highly welcome: 
+iegor.riepin@b-tu.de
+
+14.11.2019
+
+$offtext
+
 $eolcom #
 
 set   i  technologies /x1, x2/;

@@ -1,9 +1,18 @@
+$Title ESM Tutorial 5
+
 $ontext
 
-ESM tutorial 5
-Input file: input.xlsx
+ESM course, Tutorial 5
+3-node toy model: more on trade / load clipping at VOLL.
+Iegor Riepin, LSEW BTU CS
+
+Feedback, bug reportings and suggestions are highly welcome: 
+iegor.riepin@b-tu.de
+
+21.11.2019
 
 $offtext
+
 $eolcom //
 
 *########################### Data ########################

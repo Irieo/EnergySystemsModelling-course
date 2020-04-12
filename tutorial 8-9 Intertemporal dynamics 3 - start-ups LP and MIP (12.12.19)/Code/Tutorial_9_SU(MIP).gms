@@ -1,10 +1,18 @@
+$Title ESM Tutorial 9
+
 $ontext
 
-ESM18
-Tutorial 9
-Input file: Input_I.xlsx
+ESM course, Tutorial 9
+Modelling start-up constraints and partial load costs (MIP formulation)
+Iegor Riepin, LSEW BTU CS
+
+Feedback, bug reportings and suggestions are highly welcome: 
+iegor.riepin@b-tu.de
+
+12.12.2019
 
 $offtext
+
 $eolcom //
 
 *########################### Data ########################

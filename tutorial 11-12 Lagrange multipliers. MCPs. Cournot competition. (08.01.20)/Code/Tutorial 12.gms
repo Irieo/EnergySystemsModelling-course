@@ -1,5 +1,21 @@
+$Title ESM Tutorial 12
+
+$ontext
+
+ESM course, Tutorial 12
+tutorial 11-12 Lagrange multipliers. MCPs. Cournot competition.
+Iegor Riepin, LSEW BTU CS
+
+Feedback, bug reportings and suggestions are highly welcome: 
+iegor.riepin@b-tu.de
+
+08.01.2020
+
+$offtext
+
+
 $ONTEXT
-Tutorial 11&12
+
 
         - two players
         - Costs=q(p)+0,5*q(p)^2

@@ -1,9 +1,18 @@
+$Title ESM Tutorial 6
+
 $ontext
 
-ESM tutorial 6
-Input file: input.xlsx
+ESM course, Tutorial 6
+Intertemporal dynamics 1 - energy storages
+Iegor Riepin, LSEW BTU CS
+
+Feedback, bug reportings and suggestions are highly welcome: 
+iegor.riepin@b-tu.de
+
+05.12.2019
 
 $offtext
+
 $eolcom //
 
 *########################### Data ########################

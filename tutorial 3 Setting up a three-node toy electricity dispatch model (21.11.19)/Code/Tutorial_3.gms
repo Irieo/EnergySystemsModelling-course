@@ -1,7 +1,15 @@
+$Title ESM Tutorial 3
+
 $ontext
 
-ESM tutorial 3
-Input file: input.xlsx
+ESM course, Tutorial 3
+Setting up a three-node toy electricity dispatch model
+Iegor Riepin, LSEW BTU CS
+
+Feedback, bug reportings and suggestions are highly welcome: 
+iegor.riepin@b-tu.de
+
+21.11.2019
 
 $offtext
 

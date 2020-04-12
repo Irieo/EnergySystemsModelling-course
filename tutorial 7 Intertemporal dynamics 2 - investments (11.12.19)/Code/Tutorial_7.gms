@@ -1,9 +1,18 @@
+$Title ESM Tutorial 7
+
 $ontext
 
-ESM tutorial 7
-Input file: input.xlsx
+ESM course, Tutorial 7
+Intertemporal dynamics 2 - (simple) investments in power generation
+Iegor Riepin, LSEW BTU CS
+
+Feedback, bug reportings and suggestions are highly welcome: 
+iegor.riepin@b-tu.de
+
+11.12.2019
 
 $offtext
+
 $eolcom //
 
 *########################### Data ########################

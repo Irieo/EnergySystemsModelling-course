@@ -1,7 +1,15 @@
+$Title ESM Tutorial 4
+
 $ontext
 
-ESM tutorial 4
-Input file: input.xlsx
+ESM course, Tutorial 4
+Modelling RES and energy trade (NTC-constrained flows)
+Iegor Riepin, LSEW BTU CS
+
+Feedback, bug reportings and suggestions are highly welcome: 
+iegor.riepin@b-tu.de
+
+28.11.2019
 
 $offtext
 

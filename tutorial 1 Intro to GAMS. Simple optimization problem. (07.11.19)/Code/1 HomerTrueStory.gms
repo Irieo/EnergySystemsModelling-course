@@ -1,8 +1,14 @@
+$Title ESM Tutorial 1
+
 $ontext
 
-ESM course gams tutorial
-Tutorial 1
-True Story
+ESM course, Tutorial 1
+Iegor Riepin, LSEW BTU CS
+
+Feedback, bug reportings and suggestions are highly welcome: 
+iegor.riepin@b-tu.de
+
+07.11.2019
 
 $offtext
 
