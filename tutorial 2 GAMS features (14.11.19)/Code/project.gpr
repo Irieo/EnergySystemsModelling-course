@@ -1,0 +1,95 @@
+[PROJECT]
+
+[RP:CHECKS]
+1=
+
+[RP:4 SOME EXPLANATIONS]
+1=
+
+[RP:3 SIMENMODEL_FULL_EXTENDED]
+1=
+
+[RP:UNTITLED_1]
+1=
+
+[RP:2 SIMENMODEL_EMPTY]
+1=
+
+[RP:AIRCRAFT]
+1=
+
+[RP:3 SOME EXPLANATIONS]
+1=
+
+[RP:1_SEM_VAFULL]
+1=
+
+[RP:2_SEM_CONDITIONS]
+1=
+
+[RP:3 SEM_CONDITIONS]
+1=
+
+[SOLVERS]
+CNS=BARON
+DNLP=BARON
+MINLP=BARON
+MIQCP=BARON
+NLP=BARON
+QCP=BARON
+RMINLP=BARON
+RMIP=BARON
+RMIQCP=BARON
+LP=CPLEX
+MIP=CPLEX
+
+[RP:1 SIMENMODEL_FULL]
+1=
+
+[RP:1 HOMERTRUESTORY]
+1=
+
+[RP:AS_1]
+1=
+
+[OPENWINDOW_1]
+MAXIM=0
+TOP=4
+LEFT=12
+HEIGHT=633
+WIDTH=1144
+
+[RP:2.2A $CONDITIONS]
+1=
+
+[RP:2.2B SEM_CONDITIONS]
+1=
+
+[RP:3 LOOP_EXAMPLES]
+1=
+
+[RP:4_REPORT_EXAMPLE]
+1=
+
+[RP:2.1 HOMERTRUESTORY]
+1=
+
+[GDXDISP: af_wind Par 2]
+PlaneDim=0
+RowDim=1
+Squeeze=1
+SqTrail0=0
+Order=2,1
+Decim=7
+PlaneRownr=-1
+
+[MRUFILES]
+1=C:\Users\iegor\Dropbox\Teaching\ESM\ESM19\2 Exercises\ESM19 tutorial 3 (21.11.19)\tutorial_3\all_data.gdx
+2=C:\Users\iegor\Dropbox\Teaching\ESM\ESM19\2 Exercises\ESM19 tutorial 2 (14.11.19)\GAMS&Modelling intro\2.1 HomerTrueStory.gms
+3=C:\Users\iegor\Dropbox\Teaching\ESM\ESM19\2 Exercises\ESM19 tutorial 2 (14.11.19)\GAMS&Modelling intro\2.1 HomerTrueStory.lst
+4=C:\Users\iegor\Dropbox\Teaching\ESM\ESM19\2 Exercises\ESM19 tutorial 2 (14.11.19)\GAMS&Modelling intro\4_Report_example.lst
+5=C:\Users\iegor\Dropbox\Teaching\ESM\ESM19\2 Exercises\ESM19 tutorial 2 (14.11.19)\GAMS&Modelling intro\4_Report_example.gms
+6=C:\Users\iegor\Dropbox\Teaching\ESM\ESM19\2 Exercises\ESM19 tutorial 2 (14.11.19)\GAMS&Modelling intro\3 Loop_examples.lst
+7=C:\Users\iegor\Dropbox\Teaching\ESM\ESM19\2 Exercises\ESM19 tutorial 2 (14.11.19)\GAMS&Modelling intro\3 Loop_examples.gms
+8=C:\Users\iegor\Dropbox\Teaching\ESM\ESM19\2 Exercises\ESM19 tutorial 2 (14.11.19)\GAMS&Modelling intro\2.2b SEM_conditions.lst
+9=C:\Users\iegor\Dropbox\Teaching\ESM\ESM19\2 Exercises\ESM19 tutorial 2 (14.11.19)\GAMS&Modelling intro\2.2b SEM_conditions.gms
