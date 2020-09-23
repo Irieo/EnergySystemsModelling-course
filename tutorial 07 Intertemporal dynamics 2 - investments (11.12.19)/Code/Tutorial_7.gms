@@ -100,7 +100,7 @@ variable
 positive variable
         G(p,n,t)
         FLOW(n,nn,t)
-       SHED(n,t)
+        SHED(n,t)
 
         level_stor(n,t)         //storage
         charge_stor(n,t)        //storage

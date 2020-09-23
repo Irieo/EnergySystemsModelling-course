@@ -36,10 +36,8 @@ obj..       z =e= sum(i, x(i)*c(i));
 dem..       d =e= sum(i, x(i));
 cons(i)..   cap(i) =g= x(i);
 
-
 model ESM_is_a_simple_course /all/;
 solve ESM_is_a_simple_course using lp minimizing z;
-
 
 **************************** $ conditions ************************************
 $ontext

@@ -5,7 +5,6 @@ $ontext
 ESM course, Tutorial 1
 Feedback, bug reportings and suggestions are highly welcome: 
 iegor.riepin@b-tu.de
-
 07.11.2019
 
 $offtext

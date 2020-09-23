@@ -6,7 +6,6 @@ ESM course, Tutorial 5
 3-node toy model: more on trade / load clipping at VOLL.
 Feedback, bug reportings and suggestions are highly welcome: 
 iegor.riepin@b-tu.de
-
 21.11.2019
 
 $offtext

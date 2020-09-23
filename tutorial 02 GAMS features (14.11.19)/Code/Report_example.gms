@@ -6,11 +6,9 @@ ESM course, Tutorial 2
 GAMS features - report example
 Feedback, bug reportings and suggestions are highly welcome: 
 iegor.riepin@b-tu.de
-
 14.11.2019
 
 $offtext
-
 
 positive variables x1,x2;
 variable           Z;

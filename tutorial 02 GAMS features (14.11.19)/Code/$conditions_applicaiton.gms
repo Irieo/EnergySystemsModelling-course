@@ -6,7 +6,6 @@ ESM course, Tutorial 2
 GAMS features - application of $conditions
 Feedback, bug reportings and suggestions are highly welcome: 
 iegor.riepin@b-tu.de
-
 14.11.2019
 
 $offtext

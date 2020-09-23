@@ -14,8 +14,7 @@ market equilibrium modelling" (InfraTrain, TU-Berlin) was used for this exercise
 
 $offtext
 
-
-$ONTEXT
+$ontext
 
 
         - two players
@@ -30,7 +29,8 @@ c3) one player exerts market power the other one plays perfect competition - con
 d1) iterate the cv parameter for player 1 from zero to one
 d1) iterate the cv1 and cv2 parameters from zero to one
 
-$OFFTEXT
+$offtext
+
 $eolcom #
 
 *------------------------------------------------------------------------------*
