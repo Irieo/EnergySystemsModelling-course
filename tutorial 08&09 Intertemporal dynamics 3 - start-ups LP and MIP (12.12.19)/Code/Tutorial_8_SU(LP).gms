@@ -4,8 +4,6 @@ $ontext
 
 ESM course, Tutorial 8
 Modelling start-up constraints and partial load costs (LP formulation)
-Iegor Riepin, LSEW BTU CS
-
 Feedback, bug reportings and suggestions are highly welcome: 
 iegor.riepin@b-tu.de
 

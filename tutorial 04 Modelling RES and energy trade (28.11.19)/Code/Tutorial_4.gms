@@ -4,8 +4,6 @@ $ontext
 
 ESM course, Tutorial 4
 Modelling RES and energy trade (NTC-constrained flows)
-Iegor Riepin, LSEW BTU CS
-
 Feedback, bug reportings and suggestions are highly welcome: 
 iegor.riepin@b-tu.de
 

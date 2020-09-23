@@ -4,8 +4,6 @@ $ontext
 
 ESM course, Tutorial 6
 Intertemporal dynamics 1 - energy storages
-Iegor Riepin, LSEW BTU CS
-
 Feedback, bug reportings and suggestions are highly welcome: 
 iegor.riepin@b-tu.de
 

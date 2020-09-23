@@ -3,8 +3,6 @@ $Title ESM Tutorial 1
 $ontext
 
 ESM course, Tutorial 1
-Iegor Riepin, LSEW BTU CS
-
 Feedback, bug reportings and suggestions are highly welcome: 
 iegor.riepin@b-tu.de
 

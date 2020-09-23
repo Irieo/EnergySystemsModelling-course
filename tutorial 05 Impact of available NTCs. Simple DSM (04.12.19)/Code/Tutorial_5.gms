@@ -4,8 +4,6 @@ $ontext
 
 ESM course, Tutorial 5
 3-node toy model: more on trade / load clipping at VOLL.
-Iegor Riepin, LSEW BTU CS
-
 Feedback, bug reportings and suggestions are highly welcome: 
 iegor.riepin@b-tu.de
 

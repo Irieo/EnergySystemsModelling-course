@@ -4,12 +4,11 @@ $ontext
 
 ESM course, Tutorial 12
 tutorial 11-12 Lagrange multipliers. MCPs. Cournot competition.
+Feedback, bug reportings and suggestions are highly welcome: 
+iegor.riepin@b-tu.de
 
 Credits to Daniel Huppmann. His lecture "One and two-level energy 
 market equilibrium modelling" (InfraTrain, TU-Berlin) was used for this exercise.
-
-Feedback, bug reportings and suggestions are highly welcome: 
-iegor.riepin@b-tu.de
 
 08.01.2020
 

@@ -4,8 +4,6 @@ $ontext
 
 ESM course, Tutorial 9
 Modelling start-up constraints and partial load costs (MIP formulation)
-Iegor Riepin, LSEW BTU CS
-
 Feedback, bug reportings and suggestions are highly welcome: 
 iegor.riepin@b-tu.de
 

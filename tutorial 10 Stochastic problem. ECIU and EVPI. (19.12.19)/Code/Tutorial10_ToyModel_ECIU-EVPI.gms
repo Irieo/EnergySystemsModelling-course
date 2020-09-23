@@ -4,8 +4,6 @@ $ontext
 
 ESM course, Tutorial 10
 Simple stochastic problem. ECIU and EVPI.
-Iegor Riepin, LSEW BTU CS
-
 Feedback, bug reportings and suggestions are highly welcome: 
 iegor.riepin@b-tu.de
 

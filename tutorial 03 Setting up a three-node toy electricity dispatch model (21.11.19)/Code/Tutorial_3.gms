@@ -4,8 +4,6 @@ $ontext
 
 ESM course, Tutorial 3
 Setting up a three-node toy electricity dispatch model
-Iegor Riepin, LSEW BTU CS
-
 Feedback, bug reportings and suggestions are highly welcome: 
 iegor.riepin@b-tu.de
 
